@@ -1,6 +1,4 @@
-package com.task1;
-
-import com.task2.Profile;
+package com.task2;
 
 import java.util.List;
 import java.util.Map;

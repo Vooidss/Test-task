@@ -3,7 +3,7 @@ package com;
 import com.task2.Profile;
 import com.task2.ProfileService;
 import com.task1.Info;
-import com.task1.Printer;
+import com.task2.Printer;
 
 import java.util.*;
 
